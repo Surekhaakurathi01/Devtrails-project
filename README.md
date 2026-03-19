@@ -147,7 +147,7 @@ This approach removes complexity and ensures **fast, transparent, and reliable p
 
 # Customer Journey Map
 
-![Customer Journey Map](images/customer_journey.jpeg)
+![Customer Journey Map](images/customer_journey_map.jpeg)
 
 The above customer journey map illustrates how a gig delivery worker interacts with the GigShield platform from the initial awareness stage to receiving payouts. The journey begins when a delivery worker becomes aware of the platform through in-app advertisements or social media, especially during situations like heavy rainfall or extreme weather where income is disrupted. At this stage, the worker is typically anxious about income loss but becomes curious about possible solutions.
 
