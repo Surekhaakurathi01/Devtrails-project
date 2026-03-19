@@ -1,9 +1,6 @@
-# Devtrails-project
-Insurance platform for delivery workers
-
-# GigShield
-
+# GigShield 🚀  
 ### AI-Powered Parametric Insurance Platform for Gig Delivery Workers
+> Protecting gig workers from income loss using AI-powered parametric insurance.
 
 GigShield is an **AI-enabled parametric insurance platform** designed to protect gig delivery workers from **income loss caused by uncontrollable external disruptions** such as extreme weather conditions, severe pollution levels, or unexpected regional restrictions.
 
@@ -133,18 +130,36 @@ GigShield provides a **fully automated parametric insurance platform** that prot
 
 The platform combines **AI risk modeling, real-time disruption monitoring, and automated claim processing**.
 
-### Key Capabilities
+## Key Features
 
-• Weekly income protection plans
-• AI-based risk prediction models
-• Real-time disruption monitoring
-• Automatic claim triggering
-• Intelligent fraud detection mechanisms
-• Instant digital payouts
+• Weekly micro-insurance plans  
+• AI-based risk scoring  
+• Real-time weather & disruption monitoring  
+• Automatic claim triggering (no manual process)  
+• AI-powered fraud detection  
+• Instant digital payouts  
 
 Instead of requiring workers to manually submit claims, GigShield uses **parametric triggers** that automatically activate compensation when predefined environmental conditions occur.
 
 This approach removes complexity and ensures **fast, transparent, and reliable protection** for gig workers.
+
+---
+
+# Customer Journey Map
+
+![Customer Journey Map](images/customer_journey.jpeg)
+
+The above customer journey map illustrates how a gig delivery worker interacts with the GigShield platform from the initial awareness stage to receiving payouts. The journey begins when a delivery worker becomes aware of the platform through in-app advertisements or social media, especially during situations like heavy rainfall or extreme weather where income is disrupted. At this stage, the worker is typically anxious about income loss but becomes curious about possible solutions.
+
+In the onboarding stage, the worker registers quickly through a mobile-friendly interface. The platform simplifies the process by using AI-based risk profiling and phone verification, eliminating complex paperwork and making the experience smooth and accessible. This builds initial trust and confidence in the system.
+
+Once onboarded, the worker moves to the policy purchase stage, where they can select a weekly insurance plan based on their location risk and income level. The platform ensures transparent pricing and simple plan selection, helping the worker feel more empowered and in control of their financial protection.
+
+After purchasing the policy, the system enters the coverage and trigger stage. GigShield continuously monitors real-time environmental conditions such as rainfall, temperature, and air quality using external APIs. When predefined thresholds are exceeded, the system automatically detects the disruption, verifies the worker’s active policy and location, and triggers a claim without requiring any manual action. This removes the traditional complexity of insurance claims and provides immediate support during difficult situations.
+
+Finally, in the payout and renewal stage, the worker receives instant compensation through digital payment methods such as UPI. The platform also provides confirmation notifications and updates through the dashboard, ensuring complete transparency. Workers can easily renew their weekly coverage, maintaining continuous protection against future disruptions.
+
+Overall, this journey is designed to minimize effort for the worker while maximizing speed, transparency, and reliability. By eliminating manual claim processes and leveraging AI-driven automation, GigShield creates a seamless experience that ensures gig workers are financially protected when they need it the most.
 
 ---
 
@@ -259,15 +274,15 @@ During development, **mock APIs and sandbox services** will be used to simulate 
 
 ### Frontend
 
-React.js / Flutter
+React.js 
 
 ### Backend
 
-Node.js / FastAPI
+Java Spring Bott
 
 ### Database
 
-MongoDB / MYSQL
+MYSQL
 
 ### AI / ML
 
@@ -277,7 +292,7 @@ TensorFlow
 
 ### Cloud Infrastructure
 
-AWS / Firebase
+AWS 
 
 ### Payment Processing
 
@@ -407,4 +422,15 @@ GigShield aims to create a **reliable financial safety net for gig workers** by 
 The platform introduces a **scalable AI-driven parametric insurance model** that can support millions of workers across India’s gig economy.
 
 By combining **automation, artificial intelligence, and simplified insurance design**, GigShield empowers delivery partners with greater financial stability and resilience.
+
+
+---
+
+# Future Scope
+
+• Integration with gig platforms like Swiggy and Zomato  
+• Real-time earnings tracking integration  
+• Mobile app development  
+• Advanced AI-based personalized insurance plans  
+• Expansion to other gig sectors (drivers, freelancers)
 
