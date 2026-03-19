@@ -289,7 +289,7 @@ Razorpay Sandbox API
 
 ## Worker Onboarding
 
-![Onboarding](images/wireframe_onboarding.png)
+![Onboarding](images/worker_onboarding.jpeg)
 
 The onboarding interface enables delivery workers to quickly create an account, select their delivery platform category, and activate weekly income protection within minutes.
 
@@ -297,7 +297,7 @@ The onboarding interface enables delivery workers to quickly create an account, 
 
 ## Worker Dashboard
 
-![Dashboard](images/wireframe_dashboard.png)
+![Dashboard](images/worker_dashboard.jpeg)
 
 The dashboard provides workers with a clear overview of their insurance status including:
 
@@ -310,7 +310,7 @@ The dashboard provides workers with a clear overview of their insurance status i
 
 ## Automatic Claim Trigger
 
-![Claim](images/wireframe_claim1.png)
+![Claim](images/automation_workflow.jpeg)
 
 When disruption conditions are detected, the system automatically:
 
@@ -325,7 +325,7 @@ This ensures **fast and seamless compensation** for affected workers.
 
 # System Architecture
 
-![Architecture](images/system_architecture.png)
+![Architecture](images/system_flow.jpeg)
 
 The platform architecture is designed using modular microservices that support scalability and automation.
 
@@ -345,7 +345,7 @@ This architecture enables **real-time monitoring and automated insurance operati
 
 # AI Risk Prediction Flow
 
-![AI Flow](images/ai_flow.png)
+![AI Flow](images/ai_workflow.jpeg)
 
 The AI pipeline processes environmental and operational data to determine risk levels and detect potential fraud.
 
@@ -362,7 +362,7 @@ The workflow includes:
 
 # Insurance Risk Scoring Model
 
-![Risk](images/risk_scoring.png)
+![Risk](images/risk_scoring.jpeg)
 
 GigShield calculates weekly premiums using a multi-factor risk scoring system.
 
