@@ -133,19 +133,19 @@ This approach removes complexity and ensures **fast, transparent, and reliable p
 
 # Customer Journey Map
 
-![Customer Journey Map](images/customer_journey_Map.jpeg)
+![Customer Journey Map](images/Customer_Journey_Map.jpeg)
 
-The above customer journey map illustrates how a gig delivery worker interacts with the GigShield platform from the initial awareness stage to receiving payouts. The journey begins when a delivery worker becomes aware of the platform through in-app advertisements or social media, especially during situations like heavy rainfall or extreme weather where income is disrupted. At this stage, the worker is typically anxious about income loss but becomes curious about possible solutions.
+The customer journey map illustrates how a gig delivery worker interacts with the GigShield platform from awareness to payout.
 
-In the onboarding stage, the worker registers quickly through a mobile-friendly interface. The platform simplifies the process by using AI-based risk profiling and phone verification, eliminating complex paperwork and making the experience smooth and accessible. This builds initial trust and confidence in the system.
+The journey begins when a worker discovers GigShield through in-app ads or social media during disruption events like heavy rain or extreme weather. They then complete a quick onboarding process with simple registration and AI-based verification, ensuring a smooth and hassle-free experience.
 
-Once onboarded, the worker moves to the policy purchase stage, where they can select a weekly insurance plan based on their location risk and income level. The platform ensures transparent pricing and simple plan selection, helping the worker feel more empowered and in control of their financial protection.
+Once onboarded, the worker selects a weekly insurance plan based on their location and risk level. The platform provides transparent pricing, enabling informed decision-making.
 
-After purchasing the policy, the system enters the coverage and trigger stage. GigShield continuously monitors real-time environmental conditions such as rainfall, temperature, and air quality using external APIs. When predefined thresholds are exceeded, the system automatically detects the disruption, verifies the worker’s active policy and location, and triggers a claim without requiring any manual action. This removes the traditional complexity of insurance claims and provides immediate support during difficult situations.
+GigShield continuously monitors real-time environmental conditions using external APIs. When predefined thresholds are exceeded, the system automatically verifies the worker’s policy and triggers a payout without requiring any manual claim process.
 
-Finally, in the payout and renewal stage, the worker receives instant compensation through digital payment methods such as UPI. The platform also provides confirmation notifications and updates through the dashboard, ensuring complete transparency. Workers can easily renew their weekly coverage, maintaining continuous protection against future disruptions.
+Finally, the worker receives instant compensation through digital payment methods, along with notifications and dashboard updates. This ensures transparency, trust, and easy renewal for continued protection.
 
-Overall, this journey is designed to minimize effort for the worker while maximizing speed, transparency, and reliability. By eliminating manual claim processes and leveraging AI-driven automation, GigShield creates a seamless experience that ensures gig workers are financially protected when they need it the most.
+Overall, the journey is designed to deliver a seamless, automated, and reliable insurance experience with minimal effort from the worker.
 
 ---
 
