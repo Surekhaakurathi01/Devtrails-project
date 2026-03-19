@@ -39,88 +39,74 @@ GigShield addresses this gap by introducing a **parametric income protection sys
 
 ---------
 
-# 2.Target Persona
+# 2. Target Personas
 
-### Persona 1 – Rahul (Food Delivery Partner)
+## 👤 Persona 1: Rahul – Food Delivery Partner
 
-Age: 25
-Platform: Swiggy
-Location: Bangalore
-Work Pattern: 9–10 hours daily
+**Age:** 25  
+**Platform:** Swiggy  
+**Location:** Bangalore  
+**Work Pattern:** 9–10 hours daily  
 
-Background
+**Background**  
+Rahul is a full-time food delivery partner whose income depends on completing a high number of daily deliveries.
 
-Rahul works as a full-time food delivery partner in Bangalore. His income depends entirely on completing a high number of deliveries each day.
+**Challenges**
+- Heavy rain disrupts evening delivery hours  
+- Extreme heat makes afternoon work unsafe  
+- Order volume drops during severe weather  
 
-Key Challenges
+**Need**  
+Income protection during weather disruptions to maintain stable weekly earnings  
 
-Heavy rain frequently disrupts evening delivery hours.
+**How GigShield Helps**  
+GigShield automatically compensates Rahul when rainfall or temperature crosses predefined thresholds, covering his lost income.
 
-Extreme heat makes it unsafe to work during afternoon hours.
+---
 
-Order volume drops significantly during severe weather.
+## 👤 Persona 2: Priya – Grocery Delivery Partner
 
-Needs
+**Age:** 29  
+**Platform:** Zepto  
+**Location:** Mumbai  
+**Work Pattern:** 8 hours daily  
 
-Rahul needs income protection during weather disruptions so that temporary delivery shutdowns do not affect his weekly earnings.
+**Background**  
+Priya delivers groceries in high-density urban areas where speed and timing directly impact her earnings.
 
-How GigShield Helps
+**Challenges**
+- Flooded roads during monsoon prevent deliveries  
+- Traffic congestion causes delays  
+- Zone shutdowns stop operations completely  
 
-GigShield automatically compensates Rahul when heavy rainfall or extreme heat crosses predefined thresholds, ensuring that his lost delivery hours are financially covered.
+**Need**  
+Fast compensation when disruptions prevent deliveries  
 
-### Persona 2 – Priya (Grocery Delivery Partner)
+**How GigShield Helps**  
+GigShield detects flooding and disruptions using real-time data and automatically triggers income protection payouts.
 
-Age: 29
-Platform: Zepto
-Location: Mumbai
-Work Pattern: 8 hours per day
+---
 
-Background
+## 👤 Persona 3: Arjun – E-Commerce Delivery Associate
 
-Priya delivers groceries within densely populated city zones. Her income is based on the number of quick deliveries completed within limited time windows.
+**Age:** 31  
+**Platform:** Amazon Logistics  
+**Location:** Delhi  
+**Work Pattern:** Multi-zone delivery routes  
 
-Key Challenges
+**Background**  
+Arjun delivers packages across urban and suburban areas, exposing him to multiple environmental risks.
 
-Flooded roads during monsoon season prevent deliveries.
+**Challenges**
+- Severe pollution limits working hours  
+- Government curfews restrict movement  
+- Long routes increase risk exposure  
 
-Traffic congestion increases delivery delays.
+**Need**  
+Protection against income loss during city-wide disruptions  
 
-Local zone shutdowns occasionally stop deliveries entirely.
-
-Needs
-
-Priya requires fast compensation when city disruptions stop deliveries so that she does not lose daily income.
-
-How GigShield Helps
-
-GigShield detects flooding and zone closures using weather and traffic data and automatically triggers income protection payouts.
-
-### Persona 3 – Arjun (E-Commerce Delivery Associate)
-
-Age: 31
-Platform: Amazon Logistics
-Location: Delhi
-Work Pattern: Package deliveries across multiple zones
-
-Background
-
-Arjun delivers packages for an e-commerce logistics platform. His delivery routes cover large urban and suburban areas.
-
-Key Challenges
-
-Severe pollution alerts limit outdoor working hours.
-
-Government curfews sometimes restrict movement.
-
-Long delivery routes increase exposure to environmental risks.
-
-Needs
-
-Arjun needs protection against income loss during city-wide disruptions that prevent him from completing scheduled deliveries.
-
-How GigShield Helps
-
-GigShield monitors pollution levels and city restrictions. When pollution exceeds safety thresholds or curfews are announced, the system triggers automatic compensation.
+**How GigShield Helps**  
+GigShield monitors pollution levels and restrictions, triggering automatic compensation when thresholds are exceeded.
 
 -------
 
@@ -147,7 +133,7 @@ This approach removes complexity and ensures **fast, transparent, and reliable p
 
 # Customer Journey Map
 
-![Customer Journey Map](images/customer_journey_map.jpeg)
+![Customer Journey Map](images/customer_journey_Map.jpeg)
 
 The above customer journey map illustrates how a gig delivery worker interacts with the GigShield platform from the initial awareness stage to receiving payouts. The journey begins when a delivery worker becomes aware of the platform through in-app advertisements or social media, especially during situations like heavy rainfall or extreme weather where income is disrupted. At this stage, the worker is typically anxious about income loss but becomes curious about possible solutions.
 
