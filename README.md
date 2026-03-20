@@ -298,7 +298,7 @@ The onboarding interface enables delivery workers to quickly create an account, 
 
 ## Worker Dashboard
 
-![Dashboard](images/worker_dashboard.jpeg)
+![Dashboard](images/wireframe_dashboard.jpeg)
 
 The dashboard provides workers with a clear overview of their insurance status including:
 
@@ -311,7 +311,7 @@ The dashboard provides workers with a clear overview of their insurance status i
 
 ## Automatic Claim Trigger
 
-![Claim](images/automation_workflow.jpeg)
+![Claim](images/automation_flow.jpeg)
 
 When disruption conditions are detected, the system automatically:
 
